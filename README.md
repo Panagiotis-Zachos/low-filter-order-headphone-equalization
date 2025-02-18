@@ -3,6 +3,7 @@
 ## Dependencies
 
 [Discrete Frechet Distance Function](https://www.mathworks.com/matlabcentral/fileexchange/31922-discrete-frechet-distance)
+
 [Balazs Bank Functions](https://home.mit.bme.hu/~bank/parfilt/#matlabcode)
 
 From the first link download the function and place it inside the project folder.
